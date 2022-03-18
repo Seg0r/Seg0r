@@ -2,4 +2,4 @@
 - 🌱 I’m currently working as SQL/Fullstack Developer and Team Leader
 - 👀 As a hobby I'm getting acquainted with frontend technologies
 - 💞️ I’m looking to collaborate on multi platform projects requiring ability to handle variety of different technology stacks.
-- 📫 You can reach me via email: macki@op.pl
+- 📫 You can reach me via email: maciej.piaseczny (at) gmail.com
