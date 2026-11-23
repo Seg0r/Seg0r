@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Seg0r
 - 🌱 I’m currently working as Fullstack Developer with DB2 z/OS integration
-- 👀 As a hobby I fly FPV drones
+- 👀 In my free time, I fly FPV drones
